@@ -2,7 +2,7 @@
 <h2>How to setup at a local machine :</h2>
 <ol>
 <li>
-<h3>Install <a href="https://nodejs.org/en/">nodejs</a> & <a href="https://www.mongodb.com/try/download/community">mongoDb-sever</a></h3>
+<h3>Install <a target="_blank" href="https://nodejs.org/en/">nodejs</a> & <a target="_blank" href="https://www.mongodb.com/try/download/community">mongoDb-sever</a></h3>
 </li>
 <li>
 <h3>Clone to git repository with command</h3>
@@ -30,7 +30,7 @@ npm start
 <h3>Server Starts on port 8080 by default. Go to the link given 
 below in browser or postman</h3>
 <code>
-<a href="http://localhost:8080">http://localhost:8080</a>
+<a target="_blank" href="http://localhost:8080">http://localhost:8080</a>
 </code>
 </li>
 </ol>
