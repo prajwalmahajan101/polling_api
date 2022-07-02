@@ -1,10 +1,10 @@
-[polling\_api](https://polling-app-api.herokuapp.com/)
+[polling\_api](https://polling-app-api.herokuapp.com/?target=_blank)
 ======================================================
 
 How to setup at a local machine :
 ---------------------------------
 
-1.  ### Install [nodejs](https://nodejs.org/en/) & [mongoDb-sever](https://www.mongodb.com/try/download/community)
+1.  ### Install [nodejs](https://nodejs.org/en/?target=_blank) & [mongoDb-sever](https://www.mongodb.com/try/download/community/?target=_blank)
 
 2.  ### Clone to git repository with command
 
@@ -19,4 +19,4 @@ How to setup at a local machine :
     `npm start`
 6.  ### Server Starts on port 8080 by default. Go to the link given below in browser or postman
 
-    [http://localhost:8080](http://localhost:8080)
+    [http://localhost:8080](http://localhost:8080/?target=_blank)
